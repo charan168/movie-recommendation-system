@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fba44f-684b-456d-beca-6f4a5007abce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Movie-Recommender-System .iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/movie_list.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/movies_dict.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/similarity.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/movie_list.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/model/movie_list.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/movies_dict.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/model/movies_dict.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/similarity.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/similarity.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/z/Movie-Recommender-System &quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "/Volumes/z/Movie-Recommender-System "
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
